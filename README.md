@@ -1,7 +1,6 @@
-# Discover Fly
+# SIMPLY TRAVEL
 
-### Assignment - 4
+### Assignment 
 
 > Calculate the ticket count of the flight booking web page with JavaScript.
 
-### [Live Preview](https://hossainrabbi.github.io/discover-fly/ 'Flight Booking')
